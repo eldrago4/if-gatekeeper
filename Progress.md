@@ -8,3 +8,8 @@ I decided to choose postgresql for database and found out I can host it on neon.
 - [x] connected psql to neon db via string, tested if I can make changes to remote db via local shell.
 -
 As I have the db set up, now I will move to java code part and build the webscrapper to scrape and plug the data into database via jdbc.
+
+### Day 2
+
+- [x] ran web scrapper on source and collected 50 airports as a sample to test the app before rolling out
+- [x] successfully retrieved data of 50 airports
