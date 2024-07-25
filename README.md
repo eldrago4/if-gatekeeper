@@ -1,5 +1,5 @@
 # if-gatekeeper 
-<p>🛠️ currently in development 🛠️</p>
+<p>🛠️ currently in [development](/Progress.md) 🛠️</p>
 
 - Brings you gates for Infinite Flight/MSFS/XPlane so you don't have to do the hassle to manage it yourself.
 - Works with custom API.
