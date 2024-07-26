@@ -13,3 +13,17 @@ As I have the db set up, now I will move to java code part and build the webscra
 
 - [x] ran web scrapper on source and collected 50 airports as a sample to test the app before rolling out
 - [x] successfully retrieved data of 50 airports
+
+### Day 3
+
+- [x] worked on building the API, chose [Hono framework](https://hono.dev/) to make it in node.js
+- [x] integrated API with postgresql db
+- [x] built the logic of api (working with filtering reponse based on aircraft)
+- [x] improved security of api by using dotenv for storing db url
+-  explored vercel by performing instant rollbacks and using extensive monitoring tools provided by it to minimize backend overhead.
+
+### Day 4
+
+#### Agenda ->
+- make ux for landing page
+- test api after last security patches.
