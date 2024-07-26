@@ -7,7 +7,7 @@ readme = "Progress.md"
 packages = [{include = "repl_nix_if_gatekeeper"}]
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = "^3.11"
 beautifulsoup4 = "^4.12.3"
 requests = "^2.32.3"
 
