@@ -27,3 +27,5 @@ As I have the db set up, now I will move to java code part and build the webscra
 #### Agenda ->
 - make ux for landing page
 - test api after last security patches.
+
+- [x] made a temporary lightweight ui for landing page since it was showing 404 before. This will help to know the running status of api. I learnt about file structure of next.js apps. Got an insight on how I can use lottie and gsap to embed images in website design and decrease resources usage.
